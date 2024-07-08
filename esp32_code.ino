@@ -33,8 +33,6 @@ void setup()
 {
   // Debug console
   Serial.begin(9600);
-  
-  //Blynk.begin(BLYNK_AUTH_TOKEN, ssid, pass);
 
   // Connect to Wi-Fi
   WiFi.begin(ssid, pass);
