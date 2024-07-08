@@ -10,7 +10,7 @@
 #include <BlynkSimpleEsp32.h>
 #include "DigitLedDisplay.h"
 
-/* ESP32 Pin to Display Pin
+/*ESP32 Pin to Display Pin
    GPIO18 to DIN,
    GPIO5 to CS,
    GPIO19 to CLK */
